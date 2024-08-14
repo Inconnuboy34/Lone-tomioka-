@@ -7,4 +7,5 @@ A SIMPLE BOT
   
 ***
   
-https://github.com/Inconnuboy34/Lone-tomioka-/issues/2#issue-2466827101
+![IMG-20240813-WA0406](https://github.com/user-attachments/assets/32af4af6-2fe8-42bd-be2e-f06cbc755f66)
+
