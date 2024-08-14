@@ -1,6 +1,6 @@
-Hi there LAUREAT✵MD 🤟
+Hi there  🇱  🇦  🇺  🇷  🇪  🇦  🇹 ➖ 🇲  🇩 🤟
 
-A SIMPLE BOT 
+ミ★ 𝘈 𝘚𝘐𝘔𝘗𝘓𝘌 𝘉𝘖𝘛 ★彡
 
 <h1 align="center"> THE LAUREAT-MD DEVICE </h1>
 <p align="center">  
