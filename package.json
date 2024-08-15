@@ -9,7 +9,7 @@
         "start": "pm2 start . --attach --name Asta_0.1",
         "stop": "pm2 stop Asta_0.1"
     },
-    "author": "Limule3650",
+    "author": "INCONNU TECH",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^9.1.4",
